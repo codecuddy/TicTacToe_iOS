@@ -172,6 +172,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="playAgainButton" destination="otv-JB-4ED" id="VzJ-3Q-oUh"/>
                         <outlet property="winnerLabel" destination="bl0-Y8-SIH" id="lI3-IV-QQh"/>
                     </connections>
                 </viewController>
